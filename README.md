@@ -1,4 +1,4 @@
-# Bike Purchase Analysis Dashboard
+# Bike Purchase Analysis Dashboard (Dashboard.png)
 
 ## 📊 Project Overview
 
